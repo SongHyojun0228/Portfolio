@@ -2,6 +2,8 @@
 
 > 단순히 이력을 나열하는 것을 넘어, 백엔드 개발자로서의 기술적 역량과 사용자 경험에 대한 고민을 증명하기 위해 자체 구축한 인터랙티브 포트폴리오 프로젝트입니다.
 
+🔗 **라이브 서비스 배포 (Vercel)**: [https://portfolio-five-nu-srmhgxn3o4.vercel.app/](https://portfolio-five-nu-srmhgxn3o4.vercel.app/)
+
 ---
 
 ## 📌 주요 특징 (Key Features)
